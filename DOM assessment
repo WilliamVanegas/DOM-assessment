@@ -1,0 +1,18 @@
+<main>
+<!DOCTYPE html>
+<html lang="en">
+<h1> My Jokes </h1>
+<body>
+"Why was the scarecrow given a promotion? Because he was out standing in his feild!"
+"To the man in the wheelchair that stole my camoflage jacket... You can hide, but you cant run."
+"Why do you never see elephants hiding in trees? Because they're so good at it."
+<p1> var = document.createElement "That's all folks!" </p1>
+</body>
+</html>
+</main>
+
+
+document.querySelector("main")
+var = "Why was the scarecrow given a promotion? Because he was out standing in his feild!"
+var = "To the man in the wheelchair that stole my camoflage jacket... You can hide, but you cant run."
+var = "Why do you never see elephants hiding in trees? Because they're so good at it."
